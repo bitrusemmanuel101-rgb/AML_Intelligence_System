@@ -1,0 +1,12 @@
+/.vscode
+/node_modules
+/package-lock.json
+/package.json
+/Peak suspicious hours.csv
+/Red Flag Distribution.csv
+/Risk By Account Type.csv
+/Risk By Transaction Type.csv
+/SAR    Candidates.csv
+/Suspicious Corridors.csv
+/top_10_highest_risk_customer.csv
+/Total_Value_at_Risk.csv
